@@ -1,4 +1,4 @@
-### Hi there 👋<h2> My name is <a href="https://twitter.com/TundeSamson26"><span style="color: orange;">Odewole Samson</span></a></h2>
+### Hi there 👋<h2> My name is <a href="https://twitter.com/TundeSamson26"><span style="color: orange;">Odewole Babatunde Samson</span></a></h2>
 
 <h4>
 I work as a full time software in a fintech company! I'm passionate about learning and teaching programming majorly React.js for the moment. 
