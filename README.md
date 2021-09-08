@@ -15,6 +15,6 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 - 🤔 I’m looking for help with Nodejs | Web3js | Solidity
 - 💬 Ask me about HTML, CSS and other other tech related stuff
 - 📫 How to reach me: <a href="http://twitter.com/Tundesamson26">Twitter</a> | <a href="https://www.linkedin.com/in/babatunde-samson-o-360878187/">Linkedin</a> | <a href="https://www.linkedin.com/in/babatunde-samson-o-360878187/">WhatsApp</a> | 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: him/he
+- ⚡ Fun fact: I love music, meeting new people.
 
