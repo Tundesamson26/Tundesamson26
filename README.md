@@ -1,7 +1,7 @@
 ### Hi there 👋<h2> My name is <a href="https://twitter.com/TundeSamson26"><span style="color: orange;">Odewole Babatunde Samson</span></a></h2>
 
 <h4>
-I work as a full time software in a fintech company! I'm passionate about learning and teaching programming majorly React.js for the moment. 
+I work as a full time software engineer in a fintech company! I'm passionate about learning and teaching programming majorly React.js for the moment. 
 I'm an expert in MERN stack with years of experience. I worked a bit with PHP, MySQL, and Web3.js.<br>
 My current focus is Web development and database management currently but the dream is to be into Developer Advocate.<br> 
 I'm strongly interested in mentoring and teaching people in the tech industry.
