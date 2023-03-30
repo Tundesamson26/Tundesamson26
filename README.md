@@ -14,7 +14,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 - 👯 I’m looking to collaborate on open source project on blockchain development
 - 🤔 I’m looking for help with Nodejs | Web3js | Solidity
 - 💬 Ask me about HTML, CSS and other other tech related stuff
-- 📫 How to reach me: <a href="http://twitter.com/big_sam28">Twitter</a> | <a href="https://www.linkedin.com/in/babatunde-samson-o-360878187/">Linkedin</a> | <a href="https://www.linkedin.com/in/babatunde-samson-o-360878187/">WhatsApp</a> | 
+- 📫 How to reach me: <a href="http://twitter.com/big_sam28">Twitter</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> | <a href="https://www.linkedin.com/in/babatunde-samson">WhatsApp</a> | 
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I love music, meeting new people.
 
