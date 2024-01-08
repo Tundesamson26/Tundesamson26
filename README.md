@@ -2,7 +2,7 @@
 
 <h4>
 I am a full-time software engineer in a telecommunication company and an experienced technical writer! I'm passionate about learning and teaching programming, mainly React.js and Vue.js. 
-I'm an expert in HTML, CSS, JavaScript, Typescript, Reactjs, Vue.js, and MERN stack with years of experience. I worked with MySQL, Solidity, and Web3.js.<br>
+I'm an expert in HTML, CSS, JavaScript, Typescript, Reactjs, Vue.js, and MERN stack with years of experience. I worked with Solidity and Web3.js.<br>
 My current focus is Web development and blockchain development, but my dream is to be a Developer Advocate.<br> 
 I'm strongly interested in mentoring and teaching people in the tech industry.
 </h4>
@@ -14,7 +14,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 - 👯 I’m looking to collaborate on an open-source project on blockchain development
 - 🤔 I’m looking for help with Nodejs | Web3js | Solidity
 - 💬 Ask me about HTML, CSS, and other tech-related stuff
-- 📫 How to reach me: <a href="http://twitter.com/big_sam28">Twitter</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> | <a href="https://www.linkedin.com/in/babatunde-samson">WhatsApp</a> | 
+- 📫 How to reach me: <a href="http://twitter.com/big_sam29">Twitter</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> | <a href="https://www.linkedin.com/in/babatunde-samson">WhatsApp</a> | 
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I love music and meeting new people.
 
