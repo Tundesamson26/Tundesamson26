@@ -9,7 +9,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 
 <h3>Here is what you might want to know about me:</h3>
 
-- 🔭 I’m currently working on or improving my reactjs and vuejs by building projects.
+- 🔭 I’m currently working on or improving my react.js and vue.js by building projects.
 - 🌱 I’m currently learning blockchain technology with web3.js and solidity.
 - 👯 I’m looking to collaborate on an open-source project on blockchain development
 - 🤔 I’m looking for help with Nodejs | Web3js | Solidity
