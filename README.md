@@ -2,7 +2,7 @@
 
 <h4>
 I am a full-time software engineer in a telecommunication company and an experienced technical writer! I'm passionate about learning and teaching programming, mainly React.js and Vue.js. 
-I'm an expert in HTML, CSS, JavaScript, Typescript, Reactjs, Vue.js, and MERN stack with years of experience. I worked with Solidity and Web3.js.<br>
+I'm an expert in HTML, CSS, JavaScript, Typescript, Reactjs, Vue.js, and MERN stack with years of experience. I occasionally work with Solidity and Web3.js.<br>
 My current focus is Web development and blockchain development, but my dream is to be a Developer Advocate.<br> 
 I'm strongly interested in mentoring and teaching people in the tech industry.
 </h4>
