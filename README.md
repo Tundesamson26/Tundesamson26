@@ -13,5 +13,5 @@ I am a full-time software engineer and an experienced technical writer! I'm pass
 - 💬 Ask me about HTML, CSS, and other tech-related stuff
 - 📫 How to reach me: <a href="http://twitter.com/big_sam29">Twitter</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> 
 - 😄 Pronouns: him/he
-- ⚡ Fun fact: I love music, pet(dog &cat) and meeting new people.
+- ⚡ Fun fact: I love music, pet(dog&cat) and meeting new people.
 
