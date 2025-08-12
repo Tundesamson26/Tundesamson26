@@ -7,7 +7,7 @@ I'm a software developer and an experienced technical writer! I'm passionate abo
 
 <h3>Here are what you might want to know about me:</h3>
 
-- 🔭 I’m currently working on/with my React.js and Vue.js by building projects.
+- 🔭 I’m currently working on/with my React.js, Next.js and Vue.js by building projects.
 - 🌱 I’m currently learning blockchain technology with web3.js and solidity.
 - 👯 I’m looking to collaborate on an open-source project on blockchain development
 - 🤔 I’m looking for help with Nodejs | Web3js | Solidity
