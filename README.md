@@ -14,7 +14,7 @@ Here are what you might want to know about me:
 - 👯 I’m looking to collaborate on an open-source project on blockchain development
 - 🤔 I’m looking for help with Nodejs | Web3js | Solidity
 - 💬 Ask me about HTML, CSS, and other tech-related stuff
-- 📫 How to reach me: <a href="http://twitter.com/big_sam29">Twitter</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> 
+- 📫 How to reach me: <a href="http://x.com/big_sam29">x</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> 
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I love music,exploring, pet(dog&cat) and meeting new people.
 
