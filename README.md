@@ -12,7 +12,7 @@ Here are what you might want to know about me:
 - 🔭 I’m currently working on/with my React.js, Next.js and Vue.js by building projects.
 - 🌱 I’m currently learning blockchain technology with web3.js and solidity.
 - 👯 I’m looking to collaborate on an open-source project on blockchain development
-- 🤔 I’m looking for help with Nodejs | Web3js | Solidity
+- 🤔 I’m available to help with Nodejs | Web3js | Solidity
 - 💬 Ask me about HTML, CSS and other tech-related stuff
 - 📫 How to reach me: <a href="http://x.com/big_sam29">X</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> 
 - 😄 Pronounce: he/him
