@@ -10,7 +10,7 @@ Here are what you might want to know about me:
 </h3>
 
 - 🔭 I’m currently working on/with my React.js, Next.js and Vue.js by building projects.
-- 🌱 I’m currently learning blockchain technology with web3.js and solidity.
+- 🌱 I’m currently upskilling on blockchain technology with web3.js and solidity.
 - 👯 I’m looking to collaborate on an open-source project on blockchain development
 - 🤔 I’m available to help with Nodejs | Web3js | Solidity
 - 💬 Ask me about HTML, CSS and other tech-related stuff
