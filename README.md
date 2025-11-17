@@ -1,5 +1,5 @@
 ### Hey there👋🏾
-<h3> My name is <a href="https://x.com/big_sam29"><span style="color: orange;"> Odewole Babatunde Samson</span>(bigsam)</a></h3>
+<h3> My name is <a href="https://x.com/big_sam29"><span style="color: orange;"> Odewole Babatunde Samson</span> (bigsam)</a></h3>
 
 <h4>
 I'm a software developer and technical writer with over 5 years of track records. I'm passionate about learning and teaching programming, such as Javascript, Typescript, React.js and Next.js. I'm an expert in HTML, CSS, JavaScript, TypeScript, React.js, and Next.js with years of experience. I also work with Solidity and Web3.js.<br> My current focus is web and blockchain development, crafting engaging technical content, but my dream is to be a Developer Advocate.  I'm strongly interested in mentoring and teaching people in the tech industry.
