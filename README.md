@@ -12,14 +12,13 @@ I combine deep engineering expertise with strong documentation and instructional
 <h3>
 Here are what you might want to know about me:
 </h3>
-<ul>
-🔭 I work with JS/TS, React.js, Next.js, Vue.js, Svelte, Node.js etc.
-🌱 I’m currently upskilling on blockchain technology with Web3.js, Ether.js and Solidity.
-👯 I’m looking to collaborate on an open-source project on blockchain development
-🤔 I’m available to help with JS/TS, Nodejs | Web3js | Solidity
-💬 Ask me about HTML, CSS and other tech-related stuff
-📫 How to reach me: <a href="http://x.com/big_sam29">X</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> 
-😄 Pronounce: he/him
-⚡ Fun fact: I love music,exploring, pet(dog&cat) and meeting new people.
-</ul>
+
+- 🔭 I work with JS/TS, React.js, Next.js, Vue.js, Svelte, Node.js etc.
+- 🌱 I’m currently upskilling on blockchain technology with Web3.js, Ether.js and Solidity.
+- 👯 I’m looking to collaborate on an open-source project on blockchain development
+- 🤔 I’m available to help with JS/TS, Nodejs | Web3js | Solidity
+- 💬 Ask me about HTML, CSS and other tech-related stuff
+- 📫 How to reach me: <a href="http://x.com/big_sam29">X</a> | <a href="https://www.linkedin.com/in/babatunde-samson">Linkedin</a> 
+- 😄 Pronounce: he/him
+- ⚡ Fun fact: I love music,exploring, pet(dog&cat) and meeting new people.
 
