@@ -2,7 +2,7 @@
 <h3> My name is <a href="https://x.com/big_sam29"><span style="color: orange;"> Odewole Babatunde Samson</span>(bigsam)</a></h3>
 
 <p>
-I’m a multidisciplinary Software Engineer and Technical Writer with 5+ years of experience building modern web applications and crafting developer-focused content. I specialize in frontend engineering, Web3 technologies and high-clarity technical communication.
+I’m a multidisciplinary Software engineer and Technical writer with 5+ years of experience building modern web applications and crafting developer-focused content. I specialize in frontend engineering, Web3 technologies and high-clarity technical communication.
 </p>
 
 <p>
