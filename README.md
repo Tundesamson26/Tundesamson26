@@ -13,7 +13,7 @@ I combine deep engineering expertise with strong documentation and instructional
 Here are what you might want to know about me:
 </h3>
 
-- 🔭 I work with JS/TS, React.js, Next.js, Vue.js, Svelte, Node.js etc.
+- 🔭 I work with JS/TS, React.js, Next.js, Vue.js, Svelte, Node.js, PHP etc.
 - 🌱 I’m currently upskilling on blockchain technology with Web3.js, Ether.js and Solidity.
 - 👯 I’m looking to collaborate on an open-source project on blockchain development
 - 🤔 I’m available to help with JS/TS, Nodejs | Web3js | Solidity
